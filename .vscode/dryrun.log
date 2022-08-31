@@ -1,0 +1,6 @@
+make --dry-run --always-make --keep-going --print-directory
+make: Entering directory '/home/shivam/Desktop/platform-golf-HSBC-20220820T113332Z-001 (1)/platform-golf-HSBC'
+make: Leaving directory '/home/shivam/Desktop/platform-golf-HSBC-20220820T113332Z-001 (1)/platform-golf-HSBC'
+ 
+make: *** No targets specified and no makefile found.  Stop.
+
